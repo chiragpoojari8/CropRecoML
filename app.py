@@ -35,7 +35,7 @@ crop_images = {
     18: 'static/mothbeans.jpg',
     19: 'static/pigeonpeas.jpg',
     20: 'static/kidneybeans.jpg',
-    21: 'static/chickpea.jpg',
+    21: 'static/chickpeas.jpg',
     22: 'static/coffee.jpg'
 }
 
